@@ -2,7 +2,7 @@
 title: CV
 subtitle: ""
 metaDescription: ""
-date: 2017-01-01T00:00:00.000Z
+date: 2022-10-26T16:01:22.725Z
 permalink: /CV/index.html
 eleventyNavigation:
   key: CV
